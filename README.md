@@ -50,5 +50,3 @@ Helps find potential business expansion opportunities.
 10.Developed a structured approach to data analysis and reporting.
 ## License
 This project is created for learning and professional development. You are welcome to use the reports, but please give credit.
-## 🔗 Links
-[![linkedin](www.linkedin.com/in/siddhartha-chowdary-80122b240)](https://www.linkedin.com/)
